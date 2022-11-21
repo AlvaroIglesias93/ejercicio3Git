@@ -7,9 +7,7 @@ class Main {
         int contador = 0;
 
         Scanner sc = new Scanner(System.in);
-
-        System.out.println("TEXTO INNECESARIO");
-
+        
         System.out.println("Escribe el inicio:");
         inicio = sc.nextInt();
 
